@@ -3,7 +3,7 @@
 <h2>Project Portfolio:</h2>
 
 - <b>Python</b>
-  - [Insert](Insert GitHub Repository URL)
+  - [Automated Validation for Real Estate Data Integrity](https://github.com/kawahm123/Automated-Validation-for-Real-Estate-Data-Integrity/tree/main)
 - <b>SQL</b>
   - [Insert](Insert GitHub Repository URL) <b><i>(Potentially NSFW)</b></i>
 - <b>Amazon QuickSight</b>
