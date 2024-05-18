@@ -10,6 +10,7 @@
 - <b>SQL</b>
   - [Aggregated Property Listing Data](https://github.com/kawahm123/Aggregated-Property-Listing-Data)
   - [Updated Properties & Size Change Detection](https://github.com/kawahm123/Updated-Properties-and-Size-Change-Detection)
+  - [Property Status Change Analysis](https://github.com/kawahm123/Property-Status-Change-Analysis)
 
 <h2>Lets Connect!</h2>
 
