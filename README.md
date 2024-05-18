@@ -3,12 +3,13 @@
 <h2>Project Portfolio:</h2>
 
 - <b>Python</b>
-  - [Automated Validation for Real Estate Data Integrity](https://github.com/kawahm123/Automated-Validation-for-Real-Estate-Data-Integrity/tree/main)
-  - [Address Extraction from Text Data](https://github.com/kawahm123/Address-Extraction-from-Text-Data/tree/main)
-  - [Automated Web Scraping](https://github.com/kawahm123/Automated-Web-Scraping-and-Categorization/tree/main)
+  - [Automated Validation for Real Estate Data Integrity](https://github.com/kawahm123/Automated-Validation-for-Real-Estate-Data-Integrity)
+  - [Address Extraction from Text Data](https://github.com/kawahm123/Address-Extraction-from-Text-Data)
+  - [Automated Web Scraping](https://github.com/kawahm123/Automated-Web-Scraping-and-Categorization)
   - [OpenAI-GPT](https://github.com/kawahm123/OpenAI-GPT)
 - <b>SQL</b>
-  - [Insert](Insert GitHub Repository URL) <b><i>(Potentially NSFW)</b></i>
+  - [Aggregated Property Listing Data](https://github.com/kawahm123/Aggregated-Property-Listing-Data)
+  - [Updated Properties & Size Change Detection](https://github.com/kawahm123/Updated-Properties-and-Size-Change-Detection)
 
 <h2>Lets Connect!</h2>
 
