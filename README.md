@@ -6,7 +6,12 @@
   - [Automated Validation for Real Estate Data Integrity](https://github.com/kawahm123/Automated-Validation-for-Real-Estate-Data-Integrity)
   - [Address Extraction from Text Data](https://github.com/kawahm123/Address-Extraction-from-Text-Data)
   - [Automated Web Scraping](https://github.com/kawahm123/Automated-Web-Scraping-and-Categorization)
+    - Web Data Scraping
+    - Web Scraping and Categorization
+    - Web Data Scraper and Text Analysis
   - [OpenAI-GPT](https://github.com/kawahm123/OpenAI-GPT)
+    - Data Validation & Processing Flask Application
+    - Real-Time FAQ Assistant Using OpenAI API
 - <b>SQL</b>
   - [Aggregated Property Listing Data](https://github.com/kawahm123/Aggregated-Property-Listing-Data)
   - [Updated Properties & Size Change Detection](https://github.com/kawahm123/Updated-Properties-and-Size-Change-Detection)
